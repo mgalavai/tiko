@@ -1,0 +1,10 @@
+node_modules
+pnpm-lock.yaml
+dist
+.DS_Store
+# Working documentation
+DIGG_tillsynsmanual.md
+ai_supervised_a_11_y_evaluator_readme.md
+implementation_plan.md
+digg.html
+README_INTERNAL.md
